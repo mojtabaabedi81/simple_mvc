@@ -1,0 +1,11 @@
+{
+    "name": "vendor/mvc",
+    "description": "this is the project to make micro frame work that just work",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "require": {}
+}
